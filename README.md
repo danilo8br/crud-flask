@@ -22,3 +22,16 @@ Just practice my flask skills.
 - pip install flask_sqlalchemy
 - pip install mysql-connector-python
 - pip install mysqlclient
+
+## The code
+
+<summary>Libraries</summary>
+
+```
+from flask import Flask, Response, request
+from flask_sqlalchemy import SQLAlchemy
+import mysql.connector
+import json
+```
+
+<summary>Initializing the flask</summary>
