@@ -3,3 +3,5 @@
 <h1 align="center"> Python + Flask </h1>
 
 <p align="center"> Crud using SQLAlchemy flask with Python </p>
+
+## :warning: Prerequisites
