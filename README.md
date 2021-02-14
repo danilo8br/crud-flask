@@ -2,4 +2,4 @@
 
 <h1 align="center"> Python + Flask </h1>
 
- Crud using SQLAlchemy flask with Python
+<p align="center"> Crud using SQLAlchemy flask with Python </p>
