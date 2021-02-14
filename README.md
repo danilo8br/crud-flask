@@ -7,3 +7,18 @@
 ## :rocket: About the project
 
 I did this project to train my flask skills.
+
+## :wrench: How it works?
+
+The program will make requests of the type Get, Post, Put and Delete in Postman to the MySQL database usign the Python language.
+
+## :thinking:  Why?
+
+Just practice my flask skills.
+
+## :warning: Prerequisites
+
+- pip install flask
+- pip install flask_sqlalchemy
+- pip install mysql-connector-python
+- pip install mysqlclient
