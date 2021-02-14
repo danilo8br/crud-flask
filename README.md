@@ -25,7 +25,7 @@ Just practice my flask skills.
 
 ## The code
 
-<summary>Libraries</summary>
+#### Libraries
 
 ```
 from flask import Flask, Response, request
@@ -34,4 +34,4 @@ import mysql.connector
 import json
 ```
 
-<summary>Initializing the flask</summary>
+#### Initializing the flask
