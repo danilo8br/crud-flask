@@ -4,7 +4,7 @@
 
 <p align="center"> Crud using SQLAlchemy flask with Python </p>
 
-## :rocket: About the project
+## :rocket: About the project 
 
 I did this project to train my flask skills.
 
